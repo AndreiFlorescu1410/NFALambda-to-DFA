@@ -20,10 +20,11 @@
 6 6 b
 
 //Datele de intrare sunt de forma
+//Pentru o tranzitie de tip a,b se va scrie:
+//0 1 a
+//0 1 b
 Nr.Stari Nr.Tranzitii
 x ajunge in y prin a,b,c..
 .
 .	
 .
-Nr.StariFinale
-StarileFinale
